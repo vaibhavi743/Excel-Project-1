@@ -80,6 +80,10 @@ such as VLOOKUP or INDEX/MATCH for lookups and an INDEX-based
 array formula for extracting matching rows. The exact alternative
 depends on the task and worksheet layout.
 
+## Explanation video:
+
+https://drive.google.com/file/d/1PcFYDpPMCTN5f6_XQ1gC3Mi6_5KbKVo-/view?usp=drive_link
+
 ## How to Use
 
 Open the workbook and identify the Student, Sales, and Employee
